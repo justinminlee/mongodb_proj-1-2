@@ -1,0 +1,769 @@
+[{
+  "_id": {
+    "$oid": "631d39da1d896dc2e4410431"
+  },
+  "name": "Ravihansa Rajapakse",
+  "meeting_place": {
+    "location": "QUT Kelvin Grove",
+    "date": "02/11/2021",
+    "time": "8:00"
+  },
+  "age": 32,
+  "organisation": [
+    {
+      "name": "Higher Education Academy",
+      "position": "Associate Fellow"
+    }
+  ],
+  "skills": [
+    "Modern Data Management"
+  ],
+  "education": [
+    "Queensland University of Technology",
+    "Perform Australia",
+    "University of Columbo"
+  ],
+  "qualifications": [
+    "Doctor of Philosphy (PhD) Computer Science (Human Computer Interaction)",
+    "Certificate IV in Acting for Stage & Screen ",
+    "Bachelor’s degree: Information and Communication Technology"
+  ],
+  "experience": 19,
+  "projects": [
+    "n/a"
+  ],
+  "accolades": 5,
+  "contact_number": "0413014820",
+  "contact_email": {
+    "work": "saumya.rajapakse@qut.edu.au"
+  },
+  "related_contacts": [
+    "Kanika Goel"
+  ],
+  "impression": "good"
+},{
+  "_id": {
+    "$oid": "631d39da1d896dc2e4410436"
+  },
+  "name": "Timothy Chappell",
+  "meeting_place": {
+    "location": "Griffith University Nathan Campus",
+    "date": "21/02/2019",
+    "event": "Open Day"
+  },
+  "age": 30,
+  "organisation": [
+    {
+      "name": "Griffith University",
+      "position": "Student Teacher"
+    }
+  ],
+  "skills": [
+    "Communication Maintenance",
+    "Server Maintenance"
+  ],
+  "education": [
+    "Griffith University"
+  ],
+  "qualifications": [
+    "Bachelor of Engineering"
+  ],
+  "experience": 7,
+  "projects": [
+    "Has worked on the Griffith University website domain"
+  ],
+  "accolades": 4,
+  "contact_number": "0402759201",
+  "contact_email": {
+    "personal": "timchap@gmail.com",
+    "work": "timothy.chappell"
+  },
+  "related_contacts": [
+    "Kanika Goel",
+    "Wade Milne, Mark Broadmeadow"
+  ],
+  "impression": "excellent"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e441043b"
+  },
+  "name": "Freddy Kaiser",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "10/02/2022",
+    "event": "Webinar"
+  },
+  "age": 27,
+  "organisation": [
+    {
+      "name": "White Bay Search",
+      "position": "Game Designer"
+    },
+    {
+      "name": "Stratton Studios",
+      "position": "Unity Developer"
+    }
+  ],
+  "skills": [
+    "Programming",
+    "Game Design"
+  ],
+  "education": [
+    "University of Technology Sydney"
+  ],
+  "qualifications": [
+    "Bachelor of Game Design"
+  ],
+  "experience": 5,
+  "projects": [
+    "Costume Clash"
+  ],
+  "accolades": 1,
+  "contact_number": "0491570159",
+  "contact_email": {
+    "personal": "freddykaiser@gmail.com",
+    "work": "f.kaiser@whitebay.com.au"
+  },
+  "related_contacts": [
+    "Safiya Marsh"
+  ],
+  "impression": "good"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e441043c"
+  },
+  "name": "Oscar Aurora",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "05/11/2021",
+    "event": "Webinar"
+  },
+  "age": 40,
+  "organisation": [
+    {
+      "name": "Troocoo",
+      "position": "Data Scientist"
+    },
+    {
+      "name": "Moreton Bay Regional Council",
+      "position": "Data Scientist"
+    },
+    {
+      "name": "Galileo Search",
+      "position": "Data Analyst"
+    }
+  ],
+  "skills": [
+    "Modern Data Management",
+    "Databases",
+    "Automation",
+    "Data Analytics"
+  ],
+  "education": [
+    "University of Queensland",
+    "Queensland University of Technology"
+  ],
+  "qualifications": [
+    "PhD in Data Science",
+    "Bachelor of Data Science"
+  ],
+  "experience": 21,
+  "projects": [
+    "Large Scale Graph Data Processing",
+    "Colour Detection",
+    "Fake News Detection"
+  ],
+  "accolades": 2,
+  "contact_number": "0491570160",
+  "contact_email": {
+    "personal": "auroraoscar@gmail.com",
+    "work": "o.aurora@troocoo.com"
+  },
+  "related_contacts": [
+    "Frances Archer",
+    "Nanette Harvey"
+  ],
+  "impression": "good"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e441043e"
+  },
+  "name": "Nanette Harvey",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "12/01/2022",
+    "event": "Virtual Conference"
+  },
+  "age": 24,
+  "organisation": [
+    {
+      "name": "Just Digital People",
+      "position": "Web Designer"
+    }
+  ],
+  "skills": [
+    "Visual Design",
+    "Programming"
+  ],
+  "education": [
+    "Queensland University of Technology"
+  ],
+  "qualifications": [
+    "Bachelor of Information Technology"
+  ],
+  "experience": 2,
+  "projects": [
+    "Web Development"
+  ],
+  "accolades": 0,
+  "contact_number": "0491570162",
+  "contact_email": {
+    "personal": "nanetteharvey@gmail.com",
+    "work": "n.harvey@justdigitalpeople.com.au"
+  },
+  "related_contacts": [
+    "Oscar Aurora",
+    "Frances Archer"
+  ],
+  "impression": "average"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e441043f"
+  },
+  "name": "Ethan Sweeney",
+  "meeting_place": {
+    "location": "Blackbird Restaurant",
+    "date": "11/03/2021",
+    "event": "Networking Evening"
+  },
+  "age": 33,
+  "organisation": [
+    {
+      "name": "Ceva Logistics",
+      "position": "Financial Analyst"
+    }
+  ],
+  "skills": [
+    "Data Analytics",
+    "Accounting"
+  ],
+  "education": [
+    "Monash University"
+  ],
+  "qualifications": [
+    "Bachelor of Accounting",
+    "CFA Charter"
+  ],
+  "experience": 8,
+  "projects": [
+    "Credit Analysis in Rural Institutions"
+  ],
+  "accolades": 3,
+  "contact_number": "0450693694",
+  "contact_email": {
+    "personal": "ethansweeney@hotmail.com",
+    "work": "e.sweeney1@cevalogistics.com"
+  },
+  "related_contacts": [
+    ""
+  ],
+  "impression": "good"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e4410440"
+  },
+  "name": "Kyleigh Sanders",
+  "meeting_place": {
+    "location": "The Precinct",
+    "date": "06/09/2020",
+    "event": "Industry Night"
+  },
+  "age": 29,
+  "organisation": [
+    {
+      "name": "Leica Geosystems",
+      "position": "Data Engineer"
+    }
+  ],
+  "skills": [
+    "Process Mining",
+    "Databases",
+    "Automation"
+  ],
+  "education": [
+    "University of Queensland"
+  ],
+  "qualifications": [
+    "Bachelor of Computer Science",
+    "Master of Data Science"
+  ],
+  "experience": 6,
+  "projects": [
+    "Cloud Anomaly Detection"
+  ],
+  "accolades": 1,
+  "contact_number": "0430477332",
+  "contact_email": {
+    "personal": "k.sanders93@hotmail.com",
+    "work": "kyleigh.sanders@mongodb.com"
+  },
+  "related_contacts": [
+    "Stephen Hudson",
+    "Dakota Baldwin"
+  ],
+  "impression": "excellent"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e4410441"
+  },
+  "name": "Mason Baker",
+  "meeting_place": {
+    "location": "Brisbane Exhibition Centre",
+    "date": "29/03/2022",
+    "event": "Careers Expo"
+  },
+  "age": 37,
+  "organisation": [
+    {
+      "name": "Queensland Treasury",
+      "position": "Data Analyst"
+    },
+    {
+      "name": "Commbank",
+      "position": "Data Analyst"
+    },
+    {
+      "name": "Monash University",
+      "position": "Tutor"
+    }
+  ],
+  "skills": [
+    "Data Analytics",
+    "Machine Learning",
+    "Modern Data Management"
+  ],
+  "education": [
+    "Griffith University",
+    "Monash University"
+  ],
+  "qualifications": [
+    "Bachelor of Mathematics",
+    "Master of Data Science"
+  ],
+  "experience": 14,
+  "projects": [
+    "Tax Evasion Detection",
+    "Regional Crime Analysis"
+  ],
+  "accolades": 4,
+  "contact_number": "0455997817",
+  "contact_email": {
+    "personal": "mason_baker@gmail.com",
+    "work": "m.baker@treasury.qld.gov.au"
+  },
+  "related_contacts": [
+    "Ethan Sweeney"
+  ],
+  "impression": "average"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e4410442"
+  },
+  "name": "Dakota Baldwin",
+  "meeting_place": {
+    "location": "Yellowstone State High School",
+    "date": "29/03/2020",
+    "event": "Class"
+  },
+  "age": 52,
+  "organisation": [
+    {
+      "name": "Yellowstone State High School",
+      "position": "Maths Teacher"
+    },
+    {
+      "name": "Origin Energy",
+      "position": "Modelling Analyst"
+    },
+    {
+      "name": "Queensland Rail",
+      "position": "Network Capacity Modeller"
+    },
+    {
+      "name": "Deloitte",
+      "position": "Supply Chain Consultant"
+    }
+  ],
+  "skills": [
+    "Data Modelling",
+    "Mathematics",
+    "Operations Research"
+  ],
+  "education": [
+    "University of  New South Wales"
+  ],
+  "qualifications": [
+    "Bachelor of Mathematics",
+    "Bachelor of Business"
+  ],
+  "experience": 28,
+  "projects": [
+    "Optimal Commercial Rail Scheduling"
+  ],
+  "accolades": 6,
+  "contact_number": "0414419539",
+  "contact_email": {
+    "personal": "dakota.baldwin@outlook.com",
+    "work": "dbaldwin14@eq.edu.au"
+  },
+  "related_contacts": [
+    "Kyleigh Sanders"
+  ],
+  "impression": "excellent"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e4410443"
+  },
+  "name": "Tabitha Rodgers",
+  "meeting_place": {
+    "location": "University of Queensland",
+    "date": "21/11/2019",
+    "event": "Lecture"
+  },
+  "age": 30,
+  "organisation": [
+    {
+      "name": "University of Queensland",
+      "position": "Assistant Lecturer"
+    }
+  ],
+  "skills": [
+    "Data Analytics",
+    "Mathematics",
+    "Topology"
+  ],
+  "education": [
+    "University of  Queensland"
+  ],
+  "qualifications": [
+    "Bachelor of Mathematics",
+    "PhD in Topology"
+  ],
+  "experience": 4,
+  "projects": [
+    "Discrete Surface Ricci Flow",
+    "Dynamic Robot Navigation"
+  ],
+  "accolades": 1,
+  "contact_number": "0487071143",
+  "contact_email": {
+    "personal": "t.rodgers@hotmail.com",
+    "work": "t.rodgers@uq.edu.au"
+  },
+  "related_contacts": [
+    "Bradley Cooper"
+  ],
+  "impression": "good"
+},{
+  "_id": {
+    "$oid": "631d3c381d896dc2e4410444"
+  },
+  "name": "Bradley Cooper",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "31/04/2020",
+    "event": "Project Collaboration"
+  },
+  "age": 24,
+  "organisation": [
+    {
+      "name": "Figma",
+      "position": "Full Stack Developer"
+    },
+    {
+      "name": "JetBrains",
+      "position": "Front End Developer"
+    }
+  ],
+  "skills": [
+    "Programming",
+    "Web Development",
+    "Graphic Design",
+    "Databases",
+    "UX Design"
+  ],
+  "education": [
+    "Queensland University of Technology",
+    "University of Queensland"
+  ],
+  "qualifications": [
+    "Bachelor of Information Systems",
+    "Graduate Diploma in Interaction Design"
+  ],
+  "experience": 2,
+  "projects": [
+    "Personal content management system",
+    "Geospatial data  logging"
+  ],
+  "accolades": 0,
+  "contact_number": "0431224236",
+  "contact_email": {
+    "personal": "brad.cooper@gmail.com",
+    "work": "bradleycooper@figma.com"
+  },
+  "related_contacts": [
+    "Tabitha Rodgers"
+  ],
+  "impression": "excellent"
+},{
+  "_id": {
+    "$oid": "631d3cce1d896dc2e4410445"
+  },
+  "name": "Stephen Hudson",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "25/11/2020",
+    "event": "Orientation"
+  },
+  "age": 28,
+  "organisation": [
+    {
+      "name": "Boeing",
+      "position": "Aerospace Engineer"
+    }
+  ],
+  "skills": [
+    "Programming",
+    "Design",
+    "Mathematics"
+  ],
+  "education": [
+    "University of Queensland"
+  ],
+  "qualifications": [
+    "Bachelor of Aerospace Engineering"
+  ],
+  "experience": 6,
+  "projects": [],
+  "accolades": 1,
+  "contact_number": "0432182183",
+  "contact_email": {
+    "personal": "stephen.hudson@outlook.com",
+    "work": "stephen.h@boeing.com.au"
+  },
+  "related_contacts": [
+    "Kyleigh Sanders"
+  ],
+  "impression": "average"
+},{
+  "_id": {
+    "$oid": "631d3cce1d896dc2e4410446"
+  },
+  "name": "Elliot Smith",
+  "meeting_place": {
+    "location": "UQ St. Lucia Campus",
+    "date": "12/03/2021",
+    "event": "Guest Lecture"
+  },
+  "organisation": [
+    {
+      "name": "BHP",
+      "position": "Petroleum Engineer"
+    }
+  ],
+  "skills": [
+    "Geomechanics",
+    "Thermodynamics",
+    "Mathematics"
+  ],
+  "education": [
+    "University of Queensland"
+  ],
+  "qualifications": [
+    "Bachelor of Mechanical Engineering",
+    "Master of Petroleum Engineering"
+  ],
+  "contact_email": {
+    "work": "e.smith@bhp.com.au"
+  },
+  "related_contacts": [
+    "Mason Baker"
+  ],
+  "impression": "poor"
+},{
+  "_id": {
+    "$oid": "631d3cce1d896dc2e4410447"
+  },
+  "name": "Kalani Sukhdeep",
+  "meeting_place": {
+    "location": "South Bank",
+    "date": "02/03/2013",
+    "event": "Riverfire"
+  },
+  "organisation": [
+    {
+      "name": "Activision Blizzard",
+      "position": "Director"
+    },
+    {
+      "name": "Blizzard",
+      "position": "Producer"
+    }
+  ],
+  "skills": [
+    "Software Engineering",
+    "Writing"
+  ],
+  "education": [
+    "Queensland University of Technology",
+    "University of Southern Queensland"
+  ],
+  "qualifications": [
+    "Bachelor of Games Design",
+    "Honours in Gaming"
+  ],
+  "experience": 9,
+  "contact_number": "0402391057",
+  "contact_email": {
+    "personal": "kalani142@gmail.com",
+    "work": "k.sukhdeep@blizzard.com"
+  },
+  "related_contacts": [
+    "Elliot Smith",
+    "Safiya Marsh"
+  ],
+  "impression": "good"
+},{
+  "_id": {
+    "$oid": "631d3cce1d896dc2e441044a"
+  },
+  "name": "Patson Steven",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "09/08/2022",
+    "event": "Webinar"
+  },
+  "age": 29,
+  "organisation": [
+    {
+      "name": "Canva",
+      "position": "Software Developer"
+    }
+  ],
+  "skills": [
+    "Programming",
+    "Graphic Design"
+  ],
+  "education": [
+    "University of Queensland",
+    "University of Sydney"
+  ],
+  "qualifications": [
+    "Bachelor of Graphic Design",
+    "Phd in Computer Science"
+  ],
+  "experience": 1,
+  "projects": [
+    "Face Detection",
+    "Crime Rate Prediction"
+  ],
+  "accolades": 1,
+  "contact_number": "0481394923",
+  "contact_email": {
+    "personal": "patystvn@hotmail.com",
+    "work": "patsonsteven@gmail.com"
+  },
+  "related_contacts": [
+    "Gary Brandson"
+  ],
+  "impression": "Average"
+},{
+  "_id": {
+    "$oid": "631d3cce1d896dc2e441044b"
+  },
+  "name": "Patric Johnson",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "02/05/2022",
+    "event": "Webinar"
+  },
+  "age": 44,
+  "organisation": [
+    {
+      "name": "Stratton Studios",
+      "position": "Security Engineer"
+    }
+  ],
+  "skills": [
+    "Cybersecurity Engineering",
+    "Computer Science"
+  ],
+  "education": [
+    "University of Technology Sydney",
+    "Queensland University of Technology"
+  ],
+  "qualifications": [
+    "Bachelor of Cybersecurity",
+    "Phd in Computer Science"
+  ],
+  "experience": 17,
+  "projects": [
+    "Text Encryption Systems",
+    "Password Strength Tester"
+  ],
+  "accolades": 6,
+  "contact_number": "0412449502",
+  "contact_email": {
+    "personal": "patricjohnson@gmail.com",
+    "work": "p.johnson@strattonstudios.com"
+  },
+  "related_contacts": [
+    "Paston Steven"
+  ],
+  "impression": "Good"
+},{
+  "_id": {
+    "$oid": "631d3cce1d896dc2e441044d"
+  },
+  "name": "Henry Lowel",
+  "meeting_place": {
+    "location": "Zoom",
+    "date": "15/04/2022",
+    "event": "Webinar"
+  },
+  "age": 39,
+  "organisation": [
+    {
+      "name": "Google",
+      "position": "Software Engineering"
+    }
+  ],
+  "skills": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "education": [
+    "University of Queensland",
+    "Queensland University of Technology"
+  ],
+  "qualifications": [
+    "Bachelor of Computer Science",
+    "Phd in Computer Science",
+    "Bachelor of Mathematics"
+  ],
+  "experience": 11,
+  "projects": [
+    "Symbol Recognition",
+    "Cursor Movement on Object Motion"
+  ],
+  "accolades": 4,
+  "contact_number": "0412424789",
+  "contact_email": {
+    "personal": "HenryLowee@gmail.com",
+    "work": "H.Lowel@Canva.com"
+  },
+  "related_contacts": [
+    "Gary Hillson"
+  ],
+  "impression": "Good"
+}]

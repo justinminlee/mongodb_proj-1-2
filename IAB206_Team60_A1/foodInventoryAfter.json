@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "631c20b37649348dfa54814b"
+  },
+  "name": "Full Cream Milk",
+  "types": [
+    "Dairy",
+    "Milk"
+  ],
+  "purchase_date": {
+    "day": 28,
+    "month": 8,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 2,
+    "month": 9,
+    "year": 2022
+  },
+  "location": "fridge",
+  "amount": "200 ml"
+},{
+  "_id": {
+    "$oid": "631c20b37649348dfa54814c"
+  },
+  "name": "Chunk Tuna With Chilli",
+  "types": [
+    "Canned",
+    "Seafood",
+    "Fish"
+  ],
+  "purchase_date": {
+    "day": 14,
+    "month": 7,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 10,
+    "month": 1,
+    "year": 2024
+  },
+  "location": "pantry",
+  "amount": "180 g"
+},{
+  "_id": {
+    "$oid": "631c20b37649348dfa54814d"
+  },
+  "name": "Broccoli",
+  "types": [
+    "Vegetable"
+  ],
+  "purchase_date": {
+    "day": 1,
+    "month": 9,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 5,
+    "month": 9,
+    "year": 2022
+  },
+  "location": "fridge",
+  "amount": "180 g"
+},{
+  "_id": {
+    "$oid": "631c20b37649348dfa54814e"
+  },
+  "name": "Chicken Breast",
+  "types": [
+    "Meat",
+    "Chicken"
+  ],
+  "purchase_date": {
+    "day": 1,
+    "month": 9,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 5,
+    "month": 9,
+    "year": 2022
+  },
+  "location": "fridge",
+  "amount": "250 g"
+},{
+  "_id": {
+    "$oid": "631c20b37649348dfa54814f"
+  },
+  "name": "Thickened Cream",
+  "types": [
+    "Dairy",
+    "Cream"
+  ],
+  "purchase_date": {
+    "day": 22,
+    "month": 8,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 28,
+    "month": 8,
+    "year": 2022
+  },
+  "location": "fridge",
+  "amount": "200 ml"
+},{
+  "_id": {
+    "$oid": "631c20b37649348dfa548150"
+  },
+  "name": "Ground Beef",
+  "types": [
+    "Meat",
+    "Beef"
+  ],
+  "purchase_date": {
+    "day": 1,
+    "month": 9,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 1,
+    "month": 1,
+    "year": 2023
+  },
+  "location": "freezer",
+  "amount": "500 g"
+},{
+  "_id": {
+    "$oid": "631c248d7649348dfa548152"
+  },
+  "name": "Salmon",
+  "types": [
+    "Seafood",
+    "Fish"
+  ],
+  "purchase_date": {
+    "day": 2,
+    "month": 9,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 1,
+    "month": 11,
+    "year": 2022
+  },
+  "location": "freezer",
+  "amount": "100 g"
+},{
+  "_id": {
+    "$oid": "631c248d7649348dfa548153"
+  },
+  "name": "Salmon",
+  "types": [
+    "Seafood",
+    "Fish"
+  ],
+  "purchase_date": {
+    "day": 2,
+    "month": 9,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 4,
+    "month": 9,
+    "year": 2022
+  },
+  "location": "fridge",
+  "amount": "100 g"
+},{
+  "_id": {
+    "$oid": "631c26c87649348dfa548154"
+  },
+  "name": "Sour Cream & Onion Pringles",
+  "types": [
+    "Snack",
+    "Chips"
+  ],
+  "purchase_date": {
+    "day": 2,
+    "month": 9,
+    "year": 2022
+  },
+  "expiry_date": {
+    "day": 2,
+    "month": 7,
+    "year": 2023
+  },
+  "location": "pantry",
+  "amount": "130 g"
+}]
